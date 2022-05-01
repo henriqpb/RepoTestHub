@@ -1,4 +1,4 @@
-#Tema: Segurança de redes: Conheça as vulnerabilidades de servidores e clientes<h1>
+Tema: Segurança de redes: Conheça as vulnerabilidades de servidores e clientes<h1>
 
 1. O que é um ataque DDoS e como posso me proteger?
    Um ataque DDoS é um ataque realizado a um determinado servidor alvo que hospeda algum tipo de serviço no qual os atacantes querem deixar o serviço fora do ar, impedindo os usuários de utilizar ele. O método consiste em esgotar os recursos do servidor com milhares de acessos simultâneos, repetidamente, realizados por Botnets, máquinas de usuários infectados por vírus.
