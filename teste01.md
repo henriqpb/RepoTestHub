@@ -1,24 +1,24 @@
-Tema: Segurança de redes: Conheça as vulnerabilidades de servidores e clientes
+#Tema: Segurança de redes: Conheça as vulnerabilidades de servidores e clientes<h1>
 
 1. O que é um ataque DDoS e como posso me proteger?
-   Um ataque DDoS é um ataque realizado a um determinado servidor alvo que hospeda algum tipo de serviço no qual os atacantes querem deixar o serviço fora do ar, impedindo os usuários de utilizar ele. O método consiste em esgotar os recursos do servidor com milhares de acessos simultâneos, repetidamente realizados por Botnets, máquinas de usuários infectados por vírus.
+   Um ataque DDoS é um ataque realizado a um determinado servidor alvo que hospeda algum tipo de serviço no qual os atacantes querem deixar o serviço fora do ar, impedindo os usuários de utilizar ele. O método consiste em esgotar os recursos do servidor com milhares de acessos simultâneos, repetidamente, realizados por Botnets, máquinas de usuários infectados por vírus.
    Podemos nos proteger colocando etapas de verificação de usuários para realizar o acesso, como cadastros, e verificações com captcha, além de investimentos na robustez da infraestrutura, como equipamentos de rede IDS, que consegue identificar anomalias no tráfego, e o IPS que consegue impedir que esse tráfego se espalhe para outros pontos da rede.
 
 2. Por que o firewall é uma ferramenta muito importante de proteção?
-   O firewall é uma ferramenta de proteção importante porque ele isola uma rede interna do restante da internet controlando o tráfego entre as duas tornando-a mais segura contra ataques externos.
+   O firewall é uma ferramenta de proteção importante porque ele isola uma rede interna do restante da internet, controlando o tráfego entre as duas, tornando-a mais segura contra ataques externos.
 
 Tema: Git e GitHub
 
 3. Explique de forma sucinta, o fluxo e envio de um arquivo novo para o repositório do projeto.
-   Git add “Nome do Arquivo”
-   Git commit -m “Mensagem descritiva”
+   Devemos estar no repositório e na branch que queremos “commitar”, executamos o comando git add seguido do nome do arquivo, em seguida executamos o comando git commit -m seguido de uma breve descrição e finalizamos com git push caso exista um repositório remoto.
 
 4. Descreva sobre os ganhos de se utilizar a funcionalidade da branch do git.
    A funcionalidade branch nos permite criar uma ramificação paralela do projeto que deixa o desenvolvimento mais organizado e com a possibilidade de várias pessoas trabalharem em paralelo, normalmente em cada branch fica separada uma funcionalidade da aplicação.
 
 5. Explique a diferença entre criar o repositório na nuvem e iniciar o repositório a partir de um código existente local.
+
 6. Qual a diferença entre Git e GitHub?
-   O git é um sistema de versionamento de arquivo e o github é uma plataforma de hospedagem dos arquivos versionados em git, guardando remotamente os repositórios da sua máquina, entre outras funcionalidades como fork, pesquisar códigos e muito usado como portifólio.
+   O git é um sistema de versionamento de arquivo e o github é uma plataforma de hospedagem dos arquivos versionados em git, guardando remotamente os repositórios da sua máquina. O github também possui outras funcionalidades como fork, pesquisar códigos e podemos utiliza-lo como portifólio.
 
 Tema: Fundamentos de Agilidade: seus primeiros passos para a transformação ágil
 
