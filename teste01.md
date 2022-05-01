@@ -17,7 +17,6 @@ Tema: Git e GitHub
    A funcionalidade branch nos permite criar uma ramificação paralela do projeto que deixa o desenvolvimento mais organizado e com a possibilidade de várias pessoas trabalharem em paralelo, normalmente em cada branch fica separada uma funcionalidade da aplicação.
 
 5. Explique a diferença entre criar o repositório na nuvem e iniciar o repositório a partir de um código existente local.
-
 6. Qual a diferença entre Git e GitHub?
    O git é um sistema de versionamento de arquivo e o github é uma plataforma de hospedagem dos arquivos versionados em git, guardando remotamente os repositórios da sua máquina, entre outras funcionalidades como fork, pesquisar códigos e muito usado como portifólio.
 
@@ -33,10 +32,11 @@ Tema: Fundamentos de Agilidade: seus primeiros passos para a transformação ág
    O que vamos fazer no dia de hoje?
    E se tivemos impedimentos, quais?
 9. Qual o intuito das seguintes cerimônias?
-   • Daily
-   A daily é utilizada para sabermos como está progredindo o trabalho do time, se existem impedimentos e o que será feito no dia.
-   Resolver obstáculos do dia dia
-   Reunião de duração rápida 15min, participa o time todo, sempre no mesmo horário e sempre no mesmo local
+
+• Daily
+A daily é utilizada para sabermos como está progredindo o trabalho do time, se existem impedimentos e o que será feito no dia.
+Resolver obstáculos do dia dia
+Reunião de duração rápida 15min, participa o time todo, sempre no mesmo horário e sempre no mesmo local
 
 • Planning
 É a reunião de planejamento feito no início do ciclo, aqui o p.o. traz a product backlog e negocia com o time inteiro as tarefas a serem executadas na sprint que está para começar.
